@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="planet_prompt" >Poliklinik Seçiniz</string>
+  <string-array name="planets_array">
+    <item>Poliklinik Seçiniz</item>
+    <item>Dahiliye</item>
+    <item>Genel Cerrah</item>
+    <item>Ortopedi</item>
+    <item>KulakBurunBoğaz</item>
+    <item>Göz</item>
+  </string-array>
+</resources>

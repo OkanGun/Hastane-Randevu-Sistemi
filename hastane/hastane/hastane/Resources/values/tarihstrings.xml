@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="planet_promptt" >Tarih Seçiniz</string>
+  <string-array name="planets_arrayy">
+    <item>Tarih Seçiniz</item>
+    <item>08.01.2018</item>
+    <item>09.01.2018</item>
+    <item>10.01.2018</item>
+  </string-array>
+</resources>
